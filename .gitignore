@@ -1,5 +1,4 @@
 venv
 *.pkl
-*.json
 *.txt
 exps
